@@ -13,7 +13,7 @@
 
     <modules>
         <module>mamba-common</module>
-        <module>mamba-common</module>
+        <module>mamba-ml</module>
     </modules>
 
 
